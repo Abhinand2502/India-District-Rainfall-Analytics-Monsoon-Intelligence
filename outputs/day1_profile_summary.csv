@@ -1,0 +1,11 @@
+Metric,Value
+Raw rows,1308174
+Columns,26
+States,36
+Raw districts,730
+Exact duplicate rows,26843
+Minimum date,2021-01-01 00:00:00
+Maximum date,2026-09-12 00:00:00
+Missing daily actual,21734
+Missing daily normal,8830
+Missing daily departure,797174

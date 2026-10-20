@@ -1,0 +1,361 @@
+State,District,date,actual_mm,normal_mm,year,month,month_name,season,anomaly_mm,rain_flag,heavy_rain_flag,very_heavy_rain_flag,extreme_rain_flag,rainfall_intensity
+Puducherry,Mahe,2021-05-31,1198.8,528.4,2021,5,May,Pre-Monsoon,670.4,1,1,1,1,Extremely Heavy
+Meghalaya,East Garo Hills,2021-05-31,1175.3,352.0,2021,5,May,Pre-Monsoon,823.3,1,1,1,1,Extremely Heavy
+Assam,Jorhat,2022-07-26,1169.3,11.4,2022,7,July,Southwest Monsoon,1157.9,1,1,1,1,Extremely Heavy
+Kerala,Pathanamthitta,2021-05-31,877.3,251.7,2021,5,May,Pre-Monsoon,625.5999999999999,1,1,1,1,Extremely Heavy
+Kerala,Thiruvananthapuram,2021-05-31,804.8,198.4,2021,5,May,Pre-Monsoon,606.4,1,1,1,1,Extremely Heavy
+Kerala,Kottayam,2021-05-31,780.1,258.5,2021,5,May,Pre-Monsoon,521.6,1,1,1,1,Extremely Heavy
+Kerala,Alappuzha,2021-05-31,732.7,275.3,2021,5,May,Pre-Monsoon,457.4,1,1,1,1,Extremely Heavy
+Kerala,Kollam,2021-05-31,721.9,234.0,2021,5,May,Pre-Monsoon,487.9,1,1,1,1,Extremely Heavy
+The Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,2026-07-23,700.8,37.3,2026,7,July,Southwest Monsoon,663.5,1,1,1,1,Extremely Heavy
+Kerala,Ernakulam,2021-05-31,684.0,269.8,2021,5,May,Pre-Monsoon,414.2,1,1,1,1,Extremely Heavy
+Gujarat,Valsad,2026-07-23,619.4,28.2,2026,7,July,Southwest Monsoon,591.1999999999999,1,1,1,1,Extremely Heavy
+Tamil Nadu,Nagapattinam,2025-01-01,612.85,469.3,2025,1,January,Winter,143.55000000000007,1,1,1,1,Extremely Heavy
+Kerala,Thrissur,2021-05-31,596.6,269.1,2021,5,May,Pre-Monsoon,327.5,1,1,1,1,Extremely Heavy
+Kerala,Kozhikode,2021-05-31,589.8,248.9,2021,5,May,Pre-Monsoon,340.9,1,1,1,1,Extremely Heavy
+The Dadra and Nagar Haveli and Daman and Diu,Daman,2026-07-23,586.7,37.3,2026,7,July,Southwest Monsoon,549.4000000000001,1,1,1,1,Extremely Heavy
+Kerala,Idukki,2021-05-31,551.8,240.7,2021,5,May,Pre-Monsoon,311.1,1,1,1,1,Extremely Heavy
+Meghalaya,South West Khasi Hills,2022-06-17,538.0,21.0,2022,6,June,Southwest Monsoon,517.0,1,1,1,1,Extremely Heavy
+Tamil Nadu,Kanniyakumari,2021-05-31,528.5,123.8,2021,5,May,Pre-Monsoon,404.7,1,1,1,1,Extremely Heavy
+Assam,Karimganj,2021-05-31,519.4,511.3,2021,5,May,Pre-Monsoon,8.099999999999966,1,1,1,1,Extremely Heavy
+Kerala,Kannur,2021-05-31,514.6,216.9,2021,5,May,Pre-Monsoon,297.70000000000005,1,1,1,1,Extremely Heavy
+West Bengal,Malda,2021-05-31,499.2,114.5,2021,5,May,Pre-Monsoon,384.7,1,1,1,1,Extremely Heavy
+Odisha,Bhadrak,2021-05-31,491.2,96.2,2021,5,May,Pre-Monsoon,395.0,1,1,1,1,Extremely Heavy
+Meghalaya,East Khasi Hills,2022-06-17,488.4,49.9,2022,6,June,Southwest Monsoon,438.5,1,1,1,1,Extremely Heavy
+Sikkim,Mangan,2021-05-31,488.2,292.6,2021,5,May,Pre-Monsoon,195.6,1,1,1,1,Extremely Heavy
+Jharkhand,Sahebganj,2021-05-31,486.3,99.0,2021,5,May,Pre-Monsoon,387.3,1,1,1,1,Extremely Heavy
+Meghalaya,South West Khasi Hills,2024-07-01,474.3,9.0,2024,7,July,Southwest Monsoon,465.3,1,1,1,1,Extremely Heavy
+Puducherry,Mahe,2021-05-16,473.6,32.8,2021,5,May,Pre-Monsoon,440.8,1,1,1,1,Extremely Heavy
+Meghalaya,East Khasi Hills,2021-05-31,469.9,646.3,2021,5,May,Pre-Monsoon,-176.39999999999998,1,1,1,1,Extremely Heavy
+Karnataka,Dakshina Kannada,2021-05-31,456.1,174.2,2021,5,May,Pre-Monsoon,281.90000000000003,1,1,1,1,Extremely Heavy
+Puducherry,Mahe,2023-07-06,442.4,39.4,2023,7,July,Southwest Monsoon,403.0,1,1,1,1,Extremely Heavy
+Karnataka,Udupi,2021-05-31,439.1,152.3,2021,5,May,Pre-Monsoon,286.8,1,1,1,1,Extremely Heavy
+West Bengal,North 24 Parganas,2021-05-31,438.3,138.9,2021,5,May,Pre-Monsoon,299.4,1,1,1,1,Extremely Heavy
+Arunachal Pradesh,Papum Pare,2021-05-31,434.5,448.9,2021,5,May,Pre-Monsoon,-14.399999999999975,1,1,1,1,Extremely Heavy
+Assam,Cachar,2021-05-31,428.7,383.5,2021,5,May,Pre-Monsoon,45.19999999999999,1,1,1,1,Extremely Heavy
+Odisha,Kendrapara,2021-05-31,420.7,101.1,2021,5,May,Pre-Monsoon,319.6,1,1,1,1,Extremely Heavy
+Kerala,Malappuram,2021-05-31,420.4,204.2,2021,5,May,Pre-Monsoon,216.2,1,1,1,1,Extremely Heavy
+Uttar Pradesh,Mahrajganj,2021-05-31,414.5,37.4,2021,5,May,Pre-Monsoon,377.1,1,1,1,1,Extremely Heavy
+Lakshadweep,Lakshadweep District,2021-05-31,409.5,157.4,2021,5,May,Pre-Monsoon,252.1,1,1,1,1,Extremely Heavy
+Meghalaya,West Jaintia Hills,2021-04-01,405.4,5.8,2021,4,April,Pre-Monsoon,399.6,1,1,1,1,Extremely Heavy
+Arunachal Pradesh,East Siang,2021-05-31,405.2,389.7,2021,5,May,Pre-Monsoon,15.5,1,1,1,1,Extremely Heavy
+Arunachal Pradesh,Dibang Valley,2021-05-31,402.1,315.5,2021,5,May,Pre-Monsoon,86.60000000000002,1,1,1,1,Extremely Heavy
+Jharkhand,East Singhbum,2021-05-31,400.4,78.9,2021,5,May,Pre-Monsoon,321.5,1,1,1,1,Extremely Heavy
+Bihar,Katihar,2021-05-31,399.8,105.5,2021,5,May,Pre-Monsoon,294.3,1,1,1,1,Extremely Heavy
+Jharkhand,Ramgarh,2021-05-31,397.6,43.9,2021,5,May,Pre-Monsoon,353.70000000000005,1,1,1,1,Extremely Heavy
+Meghalaya,East Khasi Hills,2022-06-15,393.7,41.4,2022,6,June,Southwest Monsoon,352.3,1,1,1,1,Extremely Heavy
+West Bengal,Kolkata,2021-05-31,391.4,124.9,2021,5,May,Pre-Monsoon,266.5,1,1,1,1,Extremely Heavy
+Manipur,Tamenglong,2021-05-31,387.5,543.8,2021,5,May,Pre-Monsoon,-156.29999999999995,1,1,1,1,Extremely Heavy
+Odisha,Jajapur,2021-05-31,385.1,121.3,2021,5,May,Pre-Monsoon,263.8,1,1,1,1,Extremely Heavy
+Manipur,Imphal West,2021-05-31,381.3,122.6,2021,5,May,Pre-Monsoon,258.70000000000005,1,1,1,1,Extremely Heavy
+Maharashtra,Sindhudurg,2021-05-31,378.7,56.7,2021,5,May,Pre-Monsoon,322.0,1,1,1,1,Extremely Heavy
+Gujarat,Narmada,2022-07-12,378.5,10.1,2022,7,July,Southwest Monsoon,368.4,1,1,1,1,Extremely Heavy
+Arunachal Pradesh,East Kameng,2021-05-31,377.9,216.1,2021,5,May,Pre-Monsoon,161.79999999999998,1,1,1,1,Extremely Heavy
+Bihar,Kishanganj,2021-05-31,375.3,159.8,2021,5,May,Pre-Monsoon,215.5,1,1,1,1,Extremely Heavy
+Meghalaya,South Garo Hills,2021-05-31,370.6,389.6,2021,5,May,Pre-Monsoon,-19.0,1,1,1,1,Extremely Heavy
+Kerala,Kasaragod,2021-05-31,368.8,215.8,2021,5,May,Pre-Monsoon,153.0,1,1,1,1,Extremely Heavy
+Uttar Pradesh,Siddharth Nagar,2021-05-31,366.3,38.5,2021,5,May,Pre-Monsoon,327.8,1,1,1,1,Extremely Heavy
+Tamil Nadu,Tirunelveli,2023-12-18,363.6,7.0,2023,12,December,Post-Monsoon,356.6,1,1,1,1,Extremely Heavy
+Bihar,Pashchim Champaran,2021-05-31,362.3,79.0,2021,5,May,Pre-Monsoon,283.3,1,1,1,1,Extremely Heavy
+Arunachal Pradesh,Upper Siang,2021-05-31,361.7,350.4,2021,5,May,Pre-Monsoon,11.300000000000011,1,1,1,1,Extremely Heavy
+Meghalaya,West Khasi Hills,2021-05-31,361.4,364.2,2021,5,May,Pre-Monsoon,-2.800000000000012,1,1,1,1,Extremely Heavy
+Meghalaya,West Garo Hills,2021-05-31,360.5,389.6,2021,5,May,Pre-Monsoon,-29.100000000000023,1,1,1,1,Extremely Heavy
+Odisha,Jagatsinghapur,2021-05-31,360.0,93.3,2021,5,May,Pre-Monsoon,266.7,1,1,1,1,Extremely Heavy
+Meghalaya,South West Khasi Hills,2022-06-16,360.0,15.6,2022,6,June,Southwest Monsoon,344.4,1,1,1,1,Extremely Heavy
+Jharkhand,Hazaribagh,2021-05-31,354.9,45.9,2021,5,May,Pre-Monsoon,309.0,1,1,1,1,Extremely Heavy
+Sikkim,Gangtok,2021-05-31,354.4,332.6,2021,5,May,Pre-Monsoon,21.799999999999955,1,1,1,1,Extremely Heavy
+Bihar,Purnia,2021-05-31,352.2,135.2,2021,5,May,Pre-Monsoon,217.0,1,1,1,1,Extremely Heavy
+Tamil Nadu,Tuticorin,2023-12-18,343.6,4.8,2023,12,December,Post-Monsoon,338.8,1,1,1,1,Extremely Heavy
+Meghalaya,South West Khasi Hills,2023-06-22,342.3,20.2,2023,6,June,Southwest Monsoon,322.1,1,1,1,1,Extremely Heavy
+Jharkhand,Saraikela Kharsawan,2021-05-31,339.5,55.2,2021,5,May,Pre-Monsoon,284.3,1,1,1,1,Extremely Heavy
+Odisha,Puri,2021-09-13,337.7,7.1,2021,9,September,Southwest Monsoon,330.6,1,1,1,1,Extremely Heavy
+Meghalaya,East Khasi Hills,2022-06-16,337.5,45.4,2022,6,June,Southwest Monsoon,292.1,1,1,1,1,Extremely Heavy
+Assam,Hailakandi,2021-05-31,337.2,403.9,2021,5,May,Pre-Monsoon,-66.69999999999999,1,1,1,1,Extremely Heavy
+Kerala,Wayanad,2021-05-31,330.4,170.8,2021,5,May,Pre-Monsoon,159.59999999999997,1,1,1,1,Extremely Heavy
+Odisha,Kendujhar,2021-05-31,329.5,98.6,2021,5,May,Pre-Monsoon,230.9,1,1,1,1,Extremely Heavy
+Meghalaya,South West Khasi Hills,2024-07-12,328.0,22.0,2024,7,July,Southwest Monsoon,306.0,1,1,1,1,Extremely Heavy
+Bihar,Madhubani,2021-05-31,326.3,63.3,2021,5,May,Pre-Monsoon,263.0,1,1,1,1,Extremely Heavy
+Bihar,Araria,2021-05-31,324.6,126.7,2021,5,May,Pre-Monsoon,197.90000000000003,1,1,1,1,Extremely Heavy
+Meghalaya,South West Khasi Hills,2022-06-13,324.3,23.7,2022,6,June,Southwest Monsoon,300.6,1,1,1,1,Extremely Heavy
+Gujarat,Chhotaudepur,2022-07-11,322.4,10.5,2022,7,July,Southwest Monsoon,311.9,1,1,1,1,Extremely Heavy
+Meghalaya,South Garo Hills,2024-08-21,321.8,13.3,2024,8,August,Southwest Monsoon,308.5,1,1,1,1,Extremely Heavy
+Assam,Kokrajhar,2022-06-16,321.6,17.8,2022,6,June,Southwest Monsoon,303.8,1,1,1,1,Extremely Heavy
+Bihar,Madhepura,2021-05-31,320.0,94.1,2021,5,May,Pre-Monsoon,225.9,1,1,1,1,Extremely Heavy
+Puducherry,Mahe,2023-09-07,320.0,22.4,2023,9,September,Southwest Monsoon,297.6,1,1,1,1,Extremely Heavy
+Bihar,Darbhanga,2021-05-31,317.7,59.3,2021,5,May,Pre-Monsoon,258.4,1,1,1,1,Extremely Heavy
+Tripura,South Tripura,2024-08-22,315.3,12.8,2024,8,August,Southwest Monsoon,302.5,1,1,1,1,Extremely Heavy
+Assam,Tinsukia,2021-05-31,315.2,262.6,2021,5,May,Pre-Monsoon,52.599999999999966,1,1,1,1,Extremely Heavy
+Chhattisgarh,Rajnandgaon,2024-09-10,315.2,12.6,2024,9,September,Southwest Monsoon,302.6,1,1,1,1,Extremely Heavy
+The Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,2022-07-14,314.6,29.8,2022,7,July,Southwest Monsoon,284.8,1,1,1,1,Extremely Heavy
+Madhya Pradesh,Shivpuri,2021-08-03,312.8,11.6,2021,8,August,Southwest Monsoon,301.2,1,1,1,1,Extremely Heavy
+Odisha,Baleshwar,2021-05-31,312.6,122.8,2021,5,May,Pre-Monsoon,189.8,1,1,1,1,Extremely Heavy
+West Bengal,Purba Medinipur,2021-05-31,312.5,106.6,2021,5,May,Pre-Monsoon,205.9,1,1,1,1,Extremely Heavy
+Assam,Lakhimpur,2021-05-31,310.1,300.5,2021,5,May,Pre-Monsoon,9.600000000000025,1,1,1,1,Extremely Heavy
+Puducherry,Mahe,2022-05-18,310.0,8.6,2022,5,May,Pre-Monsoon,301.4,1,1,1,1,Extremely Heavy
+West Bengal,Malda,2021-05-28,309.3,4.7,2021,5,May,Pre-Monsoon,304.6,1,1,1,1,Extremely Heavy
+Jharkhand,Lohardaga,2021-05-31,309.1,41.6,2021,5,May,Pre-Monsoon,267.5,1,1,1,1,Extremely Heavy
+Bihar,Nalanda,2021-05-31,308.2,28.4,2021,5,May,Pre-Monsoon,279.8,1,1,1,1,Extremely Heavy
+Arunachal Pradesh,Lower Dibang Valley,2021-05-31,308.2,305.0,2021,5,May,Pre-Monsoon,3.1999999999999886,1,1,1,1,Extremely Heavy
+Telangana,Jayashankar Bhupalapally,2023-07-27,307.9,15.5,2023,7,July,Southwest Monsoon,292.4,1,1,1,1,Extremely Heavy
+Puducherry,Mahe,2021-10-17,307.6,11.8,2021,10,October,Post-Monsoon,295.8,1,1,1,1,Extremely Heavy
+The Dadra and Nagar Haveli and Daman and Diu,Daman,2021-09-01,306.7,25.7,2021,9,September,Southwest Monsoon,281.0,1,1,1,1,Extremely Heavy
+Bihar,Supaul,2021-05-31,306.3,92.9,2021,5,May,Pre-Monsoon,213.4,1,1,1,1,Extremely Heavy
+Puducherry,Mahe,2021-10-12,305.6,24.2,2021,10,October,Post-Monsoon,281.40000000000003,1,1,1,1,Extremely Heavy
+Meghalaya,East Khasi Hills,2024-06-15,304.9,41.4,2024,6,June,Southwest Monsoon,263.5,1,1,1,1,Extremely Heavy
+Karnataka,Kodagu,2021-05-31,304.5,146.3,2021,5,May,Pre-Monsoon,158.2,1,1,1,1,Extremely Heavy
+Gujarat,Devbhumi Dwarka,2024-08-28,304.4,3.5,2024,8,August,Southwest Monsoon,300.9,1,1,1,1,Extremely Heavy
+Maharashtra,Palghar,2026-07-07,304.1,26.7,2026,7,July,Southwest Monsoon,277.40000000000003,1,1,1,1,Extremely Heavy
+Odisha,Jagatsinghapur,2021-09-13,303.1,9.4,2021,9,September,Southwest Monsoon,293.70000000000005,1,1,1,1,Extremely Heavy
+Kerala,Palakkad,2021-05-31,302.2,137.3,2021,5,May,Pre-Monsoon,164.89999999999998,1,1,1,1,Extremely Heavy
+Telangana,Hanumakonda,2023-07-27,301.3,5.9,2023,7,July,Southwest Monsoon,295.40000000000003,1,1,1,1,Extremely Heavy
+Karnataka,Uttara Kannada,2021-05-31,301.0,86.6,2021,5,May,Pre-Monsoon,214.4,1,1,1,1,Extremely Heavy
+Meghalaya,East Jaintia Hills,2022-06-17,300.0,58.4,2022,6,June,Southwest Monsoon,241.6,1,1,1,1,Extremely Heavy
+Odisha,Mayurbhanj,2021-05-31,299.6,118.4,2021,5,May,Pre-Monsoon,181.2,1,1,1,1,Extremely Heavy
+Bihar,Vaishali,2021-05-31,299.5,42.0,2021,5,May,Pre-Monsoon,257.5,1,1,1,1,Extremely Heavy
+Uttar Pradesh,Gorakhpur,2021-05-31,298.8,37.4,2021,5,May,Pre-Monsoon,261.40000000000003,1,1,1,1,Extremely Heavy
+Bihar,Muzaffarpur,2021-05-31,298.7,63.1,2021,5,May,Pre-Monsoon,235.6,1,1,1,1,Extremely Heavy
+Meghalaya,East Khasi Hills,2024-06-18,297.7,41.3,2024,6,June,Southwest Monsoon,256.4,1,1,1,1,Extremely Heavy
+Meghalaya,East Jaintia Hills,2025-05-31,297.3,26.0,2025,5,May,Pre-Monsoon,271.3,1,1,1,1,Extremely Heavy
+Tamil Nadu,Mayiladuthurai,2024-12-13,296.2,12.2,2024,12,December,Post-Monsoon,284.0,1,1,1,1,Extremely Heavy
+Meghalaya,South West Khasi Hills,2025-05-31,295.0,12.1,2025,5,May,Pre-Monsoon,282.9,1,1,1,1,Extremely Heavy
+The Dadra and Nagar Haveli and Daman and Diu,Daman,2026-07-22,294.6,34.5,2026,7,July,Southwest Monsoon,260.1,1,1,1,1,Extremely Heavy
+Meghalaya,Ri Bhoi,2021-05-31,294.4,242.4,2021,5,May,Pre-Monsoon,51.99999999999997,1,1,1,1,Extremely Heavy
+West Bengal,Darjeeling,2021-05-31,292.8,273.4,2021,5,May,Pre-Monsoon,19.400000000000038,1,1,1,1,Extremely Heavy
+Meghalaya,East Khasi Hills,2021-06-29,292.4,39.6,2021,6,June,Southwest Monsoon,252.8,1,1,1,1,Extremely Heavy
+Meghalaya,West Jaintia Hills,2021-05-31,291.7,587.2,2021,5,May,Pre-Monsoon,-295.50000000000006,1,1,1,1,Extremely Heavy
+Puducherry,Mahe,2023-07-05,291.6,45.2,2023,7,July,Southwest Monsoon,246.40000000000003,1,1,1,1,Extremely Heavy
+The Dadra and Nagar Haveli and Daman and Diu,Daman,2021-05-31,291.0,9.0,2021,5,May,Pre-Monsoon,282.0,1,1,1,1,Extremely Heavy
+Chandigarh,Chandigarh,2023-07-09,290.9,4.2,2023,7,July,Southwest Monsoon,286.7,1,1,1,1,Extremely Heavy
+Bihar,Purbi Champaran,2021-05-31,290.5,62.5,2021,5,May,Pre-Monsoon,228.0,1,1,1,1,Extremely Heavy
+Jharkhand,Khunti,2021-05-31,290.2,40.7,2021,5,May,Pre-Monsoon,249.5,1,1,1,1,Extremely Heavy
+Assam,Dibrugarh,2021-05-31,290.1,253.5,2021,5,May,Pre-Monsoon,36.60000000000002,1,1,1,1,Extremely Heavy
+Meghalaya,South West Khasi Hills,2024-06-18,290.0,16.7,2024,6,June,Southwest Monsoon,273.3,1,1,1,1,Extremely Heavy
+Gujarat,Porbandar,2024-07-19,289.6,7.6,2024,7,July,Southwest Monsoon,282.0,1,1,1,1,Extremely Heavy
+Meghalaya,East Garo Hills,2022-06-17,288.5,31.4,2022,6,June,Southwest Monsoon,257.1,1,1,1,1,Extremely Heavy
+Assam,Chirang,2022-06-15,288.0,28.4,2022,6,June,Southwest Monsoon,259.6,1,1,1,1,Extremely Heavy
+Meghalaya,East Khasi Hills,2024-07-01,287.8,47.0,2024,7,July,Southwest Monsoon,240.8,1,1,1,1,Extremely Heavy
+Puducherry,Karaikal,2021-11-10,287.2,19.4,2021,11,November,Post-Monsoon,267.8,1,1,1,1,Extremely Heavy
+Meghalaya,South West Khasi Hills,2024-06-15,287.0,18.2,2024,6,June,Southwest Monsoon,268.8,1,1,1,1,Extremely Heavy
+Arunachal Pradesh,Anjaw,2021-05-31,286.9,299.7,2021,5,May,Pre-Monsoon,-12.800000000000011,1,1,1,1,Extremely Heavy
+West Bengal,Purulia,2021-05-31,284.5,66.6,2021,5,May,Pre-Monsoon,217.9,1,1,1,1,Extremely Heavy
+West Bengal,Uttar Dinajpur,2021-05-31,282.8,216.7,2021,5,May,Pre-Monsoon,66.10000000000002,1,1,1,1,Extremely Heavy
+Jharkhand,West Singhbhum,2021-05-31,282.6,62.9,2021,5,May,Pre-Monsoon,219.7,1,1,1,1,Extremely Heavy
+Gujarat,Dang,2026-07-04,282.1,26.5,2026,7,July,Southwest Monsoon,255.6,1,1,1,1,Extremely Heavy
+Meghalaya,South West Khasi Hills,2022-06-15,281.9,18.2,2022,6,June,Southwest Monsoon,263.7,1,1,1,1,Extremely Heavy
+Meghalaya,South Garo Hills,2021-06-30,280.8,17.1,2021,6,June,Southwest Monsoon,263.7,1,1,1,1,Extremely Heavy
+West Bengal,Murshidabad,2021-05-31,280.1,123.6,2021,5,May,Pre-Monsoon,156.50000000000003,1,1,1,1,Extremely Heavy
+Meghalaya,East Jaintia Hills,2022-06-16,280.0,69.8,2022,6,June,Southwest Monsoon,210.2,1,1,1,1,Extremely Heavy
+Uttarakhand,Nainital,2021-10-19,279.8,1.1,2021,10,October,Post-Monsoon,278.7,1,1,1,1,Extremely Heavy
+Nagaland,Mon,2021-05-31,278.9,188.1,2021,5,May,Pre-Monsoon,90.79999999999998,1,1,1,1,Extremely Heavy
+Chhattisgarh,Balod,2024-09-10,278.0,11.8,2024,9,September,Southwest Monsoon,266.2,1,1,1,1,Extremely Heavy
+The Dadra and Nagar Haveli and Daman and Diu,Daman,2024-08-25,277.7,20.4,2024,8,August,Southwest Monsoon,257.3,1,1,1,1,Extremely Heavy
+Chhattisgarh,Sukma,2024-07-20,276.8,27.4,2024,7,July,Southwest Monsoon,249.4,1,1,1,1,Extremely Heavy
+Tamil Nadu,Nagapattinam,2021-11-10,276.3,14.4,2021,11,November,Post-Monsoon,261.90000000000003,1,1,1,1,Extremely Heavy
+Bihar,Sitamarhi,2021-05-31,275.7,71.4,2021,5,May,Pre-Monsoon,204.3,1,1,1,1,Extremely Heavy
+Bihar,Bhagalpur,2021-05-31,275.3,69.1,2021,5,May,Pre-Monsoon,206.2,1,1,1,1,Extremely Heavy
+Jharkhand,Ranchi,2021-05-31,275.0,49.4,2021,5,May,Pre-Monsoon,225.6,1,1,1,1,Extremely Heavy
+Gujarat,Jamnagar,2024-08-28,272.9,4.1,2024,8,August,Southwest Monsoon,268.79999999999995,1,1,1,1,Extremely Heavy
+West Bengal,Nadia,2021-05-31,272.7,113.9,2021,5,May,Pre-Monsoon,158.79999999999998,1,1,1,1,Extremely Heavy
+Bihar,Lakhisarai,2021-05-31,272.2,34.1,2021,5,May,Pre-Monsoon,238.1,1,1,1,1,Extremely Heavy
+Assam,Jorhat,2021-05-31,271.8,238.7,2021,5,May,Pre-Monsoon,33.10000000000002,1,1,1,1,Extremely Heavy
+Assam,Bongaigaon,2022-06-16,269.4,28.1,2022,6,June,Southwest Monsoon,241.3,1,1,1,1,Extremely Heavy
+Madhya Pradesh,Alirajpur,2023-09-17,269.0,5.5,2023,9,September,Southwest Monsoon,263.5,1,1,1,1,Extremely Heavy
+Gujarat,Gir Somnath,2023-07-19,268.7,12.4,2023,7,July,Southwest Monsoon,256.3,1,1,1,1,Extremely Heavy
+Meghalaya,West Jaintia Hills,2022-05-16,268.0,9.2,2022,5,May,Pre-Monsoon,258.8,1,1,1,1,Extremely Heavy
+Assam,Goalpara,2021-05-31,267.7,392.9,2021,5,May,Pre-Monsoon,-125.2,1,1,1,1,Extremely Heavy
+Assam,Barpeta,2021-05-31,267.1,375.2,2021,5,May,Pre-Monsoon,-108.09999999999997,1,1,1,1,Extremely Heavy
+Goa,North Goa,2021-05-31,266.9,83.1,2021,5,May,Pre-Monsoon,183.8,1,1,1,1,Extremely Heavy
+Sikkim,Gyalshing,2021-05-31,266.4,194.8,2021,5,May,Pre-Monsoon,71.59999999999997,1,1,1,1,Extremely Heavy
+Gujarat,Valsad,2022-07-14,266.0,34.4,2022,7,July,Southwest Monsoon,231.6,1,1,1,1,Extremely Heavy
+Arunachal Pradesh,Lohit,2021-05-31,265.6,269.9,2021,5,May,Pre-Monsoon,-4.2999999999999545,1,1,1,1,Extremely Heavy
+Bihar,Araria,2024-09-27,265.4,10.3,2024,9,September,Southwest Monsoon,255.1,1,1,1,1,Extremely Heavy
+Goa,North Goa,2024-07-08,265.2,31.5,2024,7,July,Southwest Monsoon,233.7,1,1,1,1,Extremely Heavy
+Odisha,Deogarh,2021-05-31,264.2,43.1,2021,5,May,Pre-Monsoon,221.1,1,1,1,1,Extremely Heavy
+The Dadra and Nagar Haveli and Daman and Diu,Diu,2025-09-29,264.2,1.4,2025,9,September,Southwest Monsoon,262.8,1,1,1,1,Extremely Heavy
+Arunachal Pradesh,Kurung Kumey,2021-05-31,263.6,271.5,2021,5,May,Pre-Monsoon,-7.899999999999977,1,1,1,1,Extremely Heavy
+Meghalaya,East Khasi Hills,2025-05-31,262.2,25.0,2025,5,May,Pre-Monsoon,237.2,1,1,1,1,Extremely Heavy
+Bihar,Siwan,2021-05-31,262.0,30.4,2021,5,May,Pre-Monsoon,231.6,1,1,1,1,Extremely Heavy
+Assam,Dhemaji,2021-05-31,261.6,327.2,2021,5,May,Pre-Monsoon,-65.59999999999997,1,1,1,1,Extremely Heavy
+Assam,Dhubri,2022-09-02,261.2,10.4,2022,9,September,Southwest Monsoon,250.8,1,1,1,1,Extremely Heavy
+Meghalaya,South Garo Hills,2022-06-17,261.0,21.0,2022,6,June,Southwest Monsoon,240.0,1,1,1,1,Extremely Heavy
+Chhattisgarh,Balrampur Ramanujganj,2024-09-28,260.8,2.2,2024,9,September,Southwest Monsoon,258.6,1,1,1,1,Extremely Heavy
+Bihar,Saharsa,2021-05-31,259.2,111.0,2021,5,May,Pre-Monsoon,148.2,1,1,1,1,Extremely Heavy
+Sikkim,Namchi,2021-05-31,258.2,311.3,2021,5,May,Pre-Monsoon,-53.10000000000002,1,1,1,1,Extremely Heavy
+Telangana,Mahabubabad,2024-09-01,257.7,6.2,2024,9,September,Southwest Monsoon,251.5,1,1,1,1,Extremely Heavy
+West Bengal,Paschim Medinipur,2021-05-31,257.4,116.0,2021,5,May,Pre-Monsoon,141.39999999999998,1,1,1,1,Extremely Heavy
+Bihar,Jamui,2021-05-31,257.2,31.1,2021,5,May,Pre-Monsoon,226.1,1,1,1,1,Extremely Heavy
+Assam,Kokrajhar,2022-06-17,256.7,23.8,2022,6,June,Southwest Monsoon,232.9,1,1,1,1,Extremely Heavy
+Assam,Sivasagar,2021-05-31,256.7,221.9,2021,5,May,Pre-Monsoon,34.79999999999998,1,1,1,1,Extremely Heavy
+Jharkhand,Koderma,2021-05-31,256.0,36.9,2021,5,May,Pre-Monsoon,219.1,1,1,1,1,Extremely Heavy
+Bihar,Begusarai,2021-05-31,254.4,45.4,2021,5,May,Pre-Monsoon,209.0,1,1,1,1,Extremely Heavy
+The Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,2021-09-29,254.1,8.9,2021,9,September,Southwest Monsoon,245.2,1,1,1,1,Extremely Heavy
+Maharashtra,Mumbai,2021-05-31,253.8,15.6,2021,5,May,Pre-Monsoon,238.2,1,1,1,1,Extremely Heavy
+Gujarat,Devbhumi Dwarka,2024-08-29,253.5,5.6,2024,8,August,Southwest Monsoon,247.9,1,1,1,1,Extremely Heavy
+West Bengal,Coochbehar,2021-05-31,252.9,329.0,2021,5,May,Pre-Monsoon,-76.1,1,1,1,1,Extremely Heavy
+Tamil Nadu,Mayiladuthurai,2022-11-12,251.7,13.1,2022,11,November,Post-Monsoon,238.6,1,1,1,1,Extremely Heavy
+Uttar Pradesh,Balrampur,2021-05-31,251.7,31.2,2021,5,May,Pre-Monsoon,220.5,1,1,1,1,Extremely Heavy
+Tripura,South Tripura,2025-07-09,251.6,16.6,2025,7,July,Southwest Monsoon,235.0,1,1,1,1,Extremely Heavy
+Chhattisgarh,Balodabazar-Bhatapara,2024-09-10,251.6,13.6,2024,9,September,Southwest Monsoon,238.0,1,1,1,1,Extremely Heavy
+Meghalaya,East Garo Hills,2025-05-20,251.5,7.2,2025,5,May,Pre-Monsoon,244.3,1,1,1,1,Extremely Heavy
+Meghalaya,South West Khasi Hills,2022-06-12,251.0,6.7,2022,6,June,Southwest Monsoon,244.3,1,1,1,1,Extremely Heavy
+Assam,Chirang,2021-05-31,250.6,431.1,2021,5,May,Pre-Monsoon,-180.50000000000003,1,1,1,1,Extremely Heavy
+Chhattisgarh,Balrampur Ramanujganj,2024-07-05,250.2,14.0,2024,7,July,Southwest Monsoon,236.2,1,1,1,1,Extremely Heavy
+Assam,Dhubri,2021-05-31,250.0,423.2,2021,5,May,Pre-Monsoon,-173.2,1,1,1,1,Extremely Heavy
+Assam,Bongaigaon,2022-06-15,249.8,27.3,2022,6,June,Southwest Monsoon,222.5,1,1,1,1,Extremely Heavy
+Arunachal Pradesh,Tawang,2021-05-31,249.3,259.9,2021,5,May,Pre-Monsoon,-10.599999999999966,1,1,1,1,Extremely Heavy
+Bihar,Saran,2021-05-31,248.3,35.9,2021,5,May,Pre-Monsoon,212.4,1,1,1,1,Extremely Heavy
+Telangana,Suryapet,2024-09-01,247.1,2.8,2024,9,September,Southwest Monsoon,244.3,1,1,1,1,Extremely Heavy
+Meghalaya,East Jaintia Hills,2022-06-15,246.8,66.8,2022,6,June,Southwest Monsoon,180.0,1,1,1,1,Extremely Heavy
+Goa,South Goa,2021-05-31,246.7,80.5,2021,5,May,Pre-Monsoon,166.2,1,1,1,1,Extremely Heavy
+Madhya Pradesh,Jhabua,2023-09-17,246.7,4.6,2023,9,September,Southwest Monsoon,242.1,1,1,1,1,Extremely Heavy
+Gujarat,Dang,2026-07-24,246.4,32.5,2026,7,July,Southwest Monsoon,213.9,1,1,1,1,Extremely Heavy
+West Bengal,Hooghly,2021-05-31,246.2,106.4,2021,5,May,Pre-Monsoon,139.79999999999998,1,1,1,1,Extremely Heavy
+Gujarat,Valsad,2024-08-25,246.0,15.4,2024,8,August,Southwest Monsoon,230.6,1,1,1,1,Extremely Heavy
+The Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,2026-07-07,245.8,21.5,2026,7,July,Southwest Monsoon,224.3,1,1,1,1,Extremely Heavy
+Uttarakhand,Bageshwar,2021-05-31,245.6,51.4,2021,5,May,Pre-Monsoon,194.2,1,1,1,1,Extremely Heavy
+Arunachal Pradesh,West Siang,2021-05-31,245.5,248.7,2021,5,May,Pre-Monsoon,-3.1999999999999886,1,1,1,1,Extremely Heavy
+Gujarat,Navsari,2026-07-24,245.4,23.0,2026,7,July,Southwest Monsoon,222.4,1,1,1,1,Extremely Heavy
+Assam,Dhemaji,2022-06-16,245.2,31.2,2022,6,June,Southwest Monsoon,214.0,1,1,1,1,Extremely Heavy
+Gujarat,Navsari,2026-07-23,245.1,22.0,2026,7,July,Southwest Monsoon,223.1,1,1,1,1,Extremely Heavy
+Gujarat,Dang,2022-07-14,244.9,34.5,2022,7,July,Southwest Monsoon,210.4,1,1,1,1,Extremely Heavy
+Gujarat,Dang,2022-07-12,244.6,30.6,2022,7,July,Southwest Monsoon,214.0,1,1,1,1,Extremely Heavy
+Jharkhand,Jamtara,2021-09-30,244.0,8.9,2021,9,September,Southwest Monsoon,235.1,1,1,1,1,Extremely Heavy
+Gujarat,Kheda,2026-07-24,243.3,13.1,2026,7,July,Southwest Monsoon,230.2,1,1,1,1,Extremely Heavy
+Meghalaya,East Khasi Hills,2024-06-16,243.1,45.4,2024,6,June,Southwest Monsoon,197.7,1,1,1,1,Extremely Heavy
+Meghalaya,East Khasi Hills,2022-05-16,242.0,13.5,2022,5,May,Pre-Monsoon,228.5,1,1,1,1,Extremely Heavy
+Assam,Darrang,2025-06-01,241.9,17.0,2025,6,June,Southwest Monsoon,224.9,1,1,1,1,Extremely Heavy
+West Bengal,Bankura,2021-09-30,241.5,7.6,2021,9,September,Southwest Monsoon,233.9,1,1,1,1,Extremely Heavy
+Maharashtra,Raigad,2026-07-06,241.5,28.5,2026,7,July,Southwest Monsoon,213.0,1,1,1,1,Extremely Heavy
+Jammu and Kashmir,Reasi,2025-08-12,240.9,29.6,2025,8,August,Southwest Monsoon,211.3,1,1,1,1,Extremely Heavy
+West Bengal,South 24 Parganas,2021-05-31,240.0,136.7,2021,5,May,Pre-Monsoon,103.3,1,1,1,1,Extremely Heavy
+Gujarat,Ahmadabad,2026-07-24,239.8,8.0,2026,7,July,Southwest Monsoon,231.8,1,1,1,1,Extremely Heavy
+Bihar,Jehanabad,2021-05-31,239.1,22.8,2021,5,May,Pre-Monsoon,216.3,1,1,1,1,Extremely Heavy
+Assam,Dima Hasao,2021-05-31,238.5,263.7,2021,5,May,Pre-Monsoon,-25.19999999999999,1,1,1,1,Extremely Heavy
+Bihar,Samastipur,2021-05-31,238.1,61.9,2021,5,May,Pre-Monsoon,176.2,1,1,1,1,Extremely Heavy
+Chhattisgarh,Sukma,2024-09-09,237.4,13.0,2024,9,September,Southwest Monsoon,224.4,1,1,1,1,Extremely Heavy
+Bihar,Munger,2021-05-31,237.4,52.1,2021,5,May,Pre-Monsoon,185.3,1,1,1,1,Extremely Heavy
+Rajasthan,Sirohi,2023-06-18,237.1,1.8,2023,6,June,Southwest Monsoon,235.3,1,1,1,1,Extremely Heavy
+The Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,2024-08-25,236.1,20.4,2024,8,August,Southwest Monsoon,215.7,1,1,1,1,Extremely Heavy
+Assam,Chirang,2022-06-16,235.2,21.2,2022,6,June,Southwest Monsoon,214.0,1,1,1,1,Extremely Heavy
+Chhattisgarh,Mohla Manpur Ambagarh Chouki,2024-09-10,235.0,11.0,2024,9,September,Southwest Monsoon,224.0,1,1,1,1,Extremely Heavy
+The Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,2026-07-22,233.6,34.5,2026,7,July,Southwest Monsoon,199.1,1,1,1,1,Extremely Heavy
+Assam,Cachar,2022-06-19,233.3,18.4,2022,6,June,Southwest Monsoon,214.9,1,1,1,1,Extremely Heavy
+Gujarat,Dang,2022-07-11,233.0,30.9,2022,7,July,Southwest Monsoon,202.1,1,1,1,1,Extremely Heavy
+Assam,Karimganj,2022-06-19,233.0,19.5,2022,6,June,Southwest Monsoon,213.5,1,1,1,1,Extremely Heavy
+Maharashtra,Kolhapur,2021-07-23,232.8,21.3,2021,7,July,Southwest Monsoon,211.5,1,1,1,1,Extremely Heavy
+Tamil Nadu,The Nilgiris,2021-05-31,232.6,108.3,2021,5,May,Pre-Monsoon,124.3,1,1,1,1,Extremely Heavy
+Jammu and Kashmir,Udhampur,2021-07-25,232.4,16.9,2021,7,July,Southwest Monsoon,215.5,1,1,1,1,Extremely Heavy
+Uttarakhand,Udam Singh Nagar,2021-10-19,232.1,1.6,2021,10,October,Post-Monsoon,230.5,1,1,1,1,Extremely Heavy
+Assam,Nalbari,2021-05-31,231.8,338.7,2021,5,May,Pre-Monsoon,-106.89999999999998,1,1,1,1,Extremely Heavy
+Odisha,Jharsuguda,2025-07-06,231.7,14.4,2025,7,July,Southwest Monsoon,217.3,1,1,1,1,Extremely Heavy
+Gujarat,Porbandar,2024-08-28,231.4,4.3,2024,8,August,Southwest Monsoon,227.1,1,1,1,1,Extremely Heavy
+Gujarat,Anand,2026-07-24,231.3,12.3,2026,7,July,Southwest Monsoon,219.0,1,1,1,1,Extremely Heavy
+Bihar,Gopalganj,2021-05-31,231.2,42.0,2021,5,May,Pre-Monsoon,189.2,1,1,1,1,Extremely Heavy
+Rajasthan,Bundi,2025-08-23,230.8,6.2,2025,8,August,Southwest Monsoon,224.6,1,1,1,1,Extremely Heavy
+Uttarakhand,Nainital,2021-05-31,230.4,64.1,2021,5,May,Pre-Monsoon,166.3,1,1,1,1,Extremely Heavy
+West Bengal,Jalpaiguri,2021-05-31,230.3,339.7,2021,5,May,Pre-Monsoon,-109.39999999999998,1,1,1,1,Extremely Heavy
+Telangana,Nirmal,2022-07-13,230.2,6.4,2022,7,July,Southwest Monsoon,223.8,1,1,1,1,Extremely Heavy
+Assam,Barpeta,2023-06-21,229.9,16.6,2023,6,June,Southwest Monsoon,213.3,1,1,1,1,Extremely Heavy
+Tamil Nadu,Tirunelveli,2024-12-13,228.9,4.0,2024,12,December,Post-Monsoon,224.9,1,1,1,1,Extremely Heavy
+Assam,Baksa,2021-05-31,228.7,329.9,2021,5,May,Pre-Monsoon,-101.2,1,1,1,1,Extremely Heavy
+Jharkhand,Sahebganj,2021-05-28,228.6,4.2,2021,5,May,Pre-Monsoon,224.4,1,1,1,1,Extremely Heavy
+Bihar,Pashchim Champaran,2021-06-15,228.5,8.3,2021,6,June,Southwest Monsoon,220.2,1,1,1,1,Extremely Heavy
+Odisha,Boudh,2023-08-02,228.4,12.9,2023,8,August,Southwest Monsoon,215.5,1,1,1,1,Extremely Heavy
+Assam,Goalpara,2022-06-16,227.8,25.4,2022,6,June,Southwest Monsoon,202.4,1,1,1,1,Extremely Heavy
+Madhya Pradesh,Betul,2023-09-16,227.3,4.5,2023,9,September,Southwest Monsoon,222.8,1,1,1,1,Extremely Heavy
+Gujarat,Valsad,2026-07-22,227.2,26.4,2026,7,July,Southwest Monsoon,200.8,1,1,1,1,Extremely Heavy
+Meghalaya,East Khasi Hills,2023-08-27,227.1,26.7,2023,8,August,Southwest Monsoon,200.4,1,1,1,1,Extremely Heavy
+Jammu and Kashmir,Kathua,2023-07-09,226.9,11.8,2023,7,July,Southwest Monsoon,215.1,1,1,1,1,Extremely Heavy
+Tamil Nadu,Coimbatore,2021-05-31,226.8,82.9,2021,5,May,Pre-Monsoon,143.9,1,1,1,1,Extremely Heavy
+Meghalaya,South West Khasi Hills,2023-06-14,226.0,17.3,2023,6,June,Southwest Monsoon,208.7,1,1,1,1,Extremely Heavy
+Rajasthan,Jalore,2023-06-18,225.9,1.0,2023,6,June,Southwest Monsoon,224.9,1,1,1,1,Extremely Heavy
+Odisha,Sundargarh,2021-05-31,225.9,42.3,2021,5,May,Pre-Monsoon,183.6,1,1,1,1,Extremely Heavy
+Uttarakhand,Champawat,2021-05-31,225.7,55.4,2021,5,May,Pre-Monsoon,170.29999999999998,1,1,1,1,Extremely Heavy
+Bihar,Gaya,2021-05-31,225.1,19.9,2021,5,May,Pre-Monsoon,205.2,1,1,1,1,Extremely Heavy
+Meghalaya,East Garo Hills,2024-08-21,225.0,10.6,2024,8,August,Southwest Monsoon,214.4,1,1,1,1,Extremely Heavy
+Meghalaya,East Garo Hills,2024-06-17,225.0,31.4,2024,6,June,Southwest Monsoon,193.6,1,1,1,1,Extremely Heavy
+Meghalaya,East Garo Hills,2021-06-25,225.0,11.9,2021,6,June,Southwest Monsoon,213.1,1,1,1,1,Extremely Heavy
+Odisha,Sonepur,2026-07-06,224.9,7.8,2026,7,July,Southwest Monsoon,217.1,1,1,1,1,Extremely Heavy
+Uttarakhand,Champawat,2024-07-08,224.6,12.4,2024,7,July,Southwest Monsoon,212.2,1,1,1,1,Extremely Heavy
+Meghalaya,East Jaintia Hills,2025-05-21,224.2,27.3,2025,5,May,Pre-Monsoon,196.9,1,1,1,1,Extremely Heavy
+Jammu and Kashmir,Reasi,2025-09-03,224.2,21.6,2025,9,September,Southwest Monsoon,202.6,1,1,1,1,Extremely Heavy
+Odisha,Sonepur,2023-08-02,223.5,14.9,2023,8,August,Southwest Monsoon,208.6,1,1,1,1,Extremely Heavy
+Meghalaya,East Khasi Hills,2023-06-16,223.5,45.4,2023,6,June,Southwest Monsoon,178.1,1,1,1,1,Extremely Heavy
+Maharashtra,Mumbai,2023-07-27,223.2,20.0,2023,7,July,Southwest Monsoon,203.2,1,1,1,1,Extremely Heavy
+Maharashtra,Sindhudurg,2024-07-08,222.8,35.4,2024,7,July,Southwest Monsoon,187.4,1,1,1,1,Extremely Heavy
+Himachal Pradesh,Una,2025-08-02,222.8,11.4,2025,8,August,Southwest Monsoon,211.4,1,1,1,1,Extremely Heavy
+Uttar Pradesh,Gonda,2022-10-06,222.8,2.2,2022,10,October,Post-Monsoon,220.6,1,1,1,1,Extremely Heavy
+Madhya Pradesh,Rajgarh,2022-08-23,222.7,11.5,2022,8,August,Southwest Monsoon,211.2,1,1,1,1,Extremely Heavy
+Telangana,Warangal,2023-07-27,222.2,8.6,2023,7,July,Southwest Monsoon,213.6,1,1,1,1,Extremely Heavy
+Meghalaya,South West Khasi Hills,2023-08-13,222.0,15.8,2023,8,August,Southwest Monsoon,206.2,1,1,1,1,Extremely Heavy
+Arunachal Pradesh,East Siang,2022-10-11,221.1,7.7,2022,10,October,Post-Monsoon,213.4,1,1,1,1,Extremely Heavy
+Maharashtra,Raigad,2023-07-20,221.1,33.6,2023,7,July,Southwest Monsoon,187.5,1,1,1,1,Extremely Heavy
+Meghalaya,South Garo Hills,2023-07-03,221.0,25.2,2023,7,July,Southwest Monsoon,195.8,1,1,1,1,Extremely Heavy
+Tamil Nadu,Tuticorin,2023-12-19,221.0,3.4,2023,12,December,Post-Monsoon,217.6,1,1,1,1,Extremely Heavy
+West Bengal,Darjeeling,2021-10-20,220.9,3.2,2021,10,October,Post-Monsoon,217.7,1,1,1,1,Extremely Heavy
+The Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,2025-09-29,220.9,6.6,2025,9,September,Southwest Monsoon,214.3,1,1,1,1,Extremely Heavy
+Uttarakhand,Rudra Prayag,2021-05-31,220.8,90.5,2021,5,May,Pre-Monsoon,130.3,1,1,1,1,Extremely Heavy
+Arunachal Pradesh,West Kameng,2021-05-31,220.2,259.9,2021,5,May,Pre-Monsoon,-39.69999999999999,1,1,1,1,Extremely Heavy
+Meghalaya,East Jaintia Hills,2023-06-14,220.0,71.9,2023,6,June,Southwest Monsoon,148.1,1,1,1,1,Extremely Heavy
+The Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,2026-07-24,219.3,38.4,2026,7,July,Southwest Monsoon,180.9,1,1,1,1,Extremely Heavy
+Mizoram,Siaha,2025-05-31,219.0,7.4,2025,5,May,Pre-Monsoon,211.6,1,1,1,1,Extremely Heavy
+West Bengal,Bankura,2021-05-31,218.8,78.0,2021,5,May,Pre-Monsoon,140.8,1,1,1,1,Extremely Heavy
+Arunachal Pradesh,Lower Dibang Valley,2024-06-30,218.6,13.1,2024,6,June,Southwest Monsoon,205.5,1,1,1,1,Extremely Heavy
+Maharashtra,Sindhudurg,2021-05-17,218.5,0.4,2021,5,May,Pre-Monsoon,218.1,1,1,1,1,Extremely Heavy
+The Dadra and Nagar Haveli and Daman and Diu,Daman,2023-07-19,218.3,38.5,2023,7,July,Southwest Monsoon,179.8,1,1,1,1,Extremely Heavy
+Maharashtra,Palghar,2021-05-31,218.2,10.3,2021,5,May,Pre-Monsoon,207.9,1,1,1,1,Extremely Heavy
+Assam,Udalguri,2021-05-31,218.1,298.5,2021,5,May,Pre-Monsoon,-80.4,1,1,1,1,Extremely Heavy
+Gujarat,Dang,2025-06-19,217.9,4.4,2025,6,June,Southwest Monsoon,213.5,1,1,1,1,Extremely Heavy
+Chhattisgarh,Balrampur Ramanujganj,2024-07-07,217.8,10.8,2024,7,July,Southwest Monsoon,207.0,1,1,1,1,Extremely Heavy
+Arunachal Pradesh,Changlang,2021-05-31,217.5,266.5,2021,5,May,Pre-Monsoon,-49.0,1,1,1,1,Extremely Heavy
+Bihar,Khagaria,2021-05-31,217.1,59.5,2021,5,May,Pre-Monsoon,157.6,1,1,1,1,Extremely Heavy
+Bihar,Sheikhpura,2021-05-31,216.6,33.8,2021,5,May,Pre-Monsoon,182.8,1,1,1,1,Extremely Heavy
+Chhattisgarh,Balod,2024-07-21,216.0,22.2,2024,7,July,Southwest Monsoon,193.8,1,1,1,1,Extremely Heavy
+Madhya Pradesh,Agar-Malwa,2022-08-23,215.3,11.0,2022,8,August,Southwest Monsoon,204.3,1,1,1,1,Extremely Heavy
+The Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,2022-07-15,215.3,29.4,2022,7,July,Southwest Monsoon,185.9,1,1,1,1,Extremely Heavy
+Uttar Pradesh,Azamgarh,2021-09-17,215.0,6.7,2021,9,September,Southwest Monsoon,208.3,1,1,1,1,Extremely Heavy
+Arunachal Pradesh,East Siang,2022-09-04,214.8,24.7,2022,9,September,Southwest Monsoon,190.1,1,1,1,1,Extremely Heavy
+The Dadra and Nagar Haveli and Daman and Diu,Dadra and Nagar Haveli,2022-07-12,214.6,21.6,2022,7,July,Southwest Monsoon,193.0,1,1,1,1,Extremely Heavy
+Kerala,Palakkad,2024-07-30,214.3,17.3,2024,7,July,Southwest Monsoon,197.0,1,1,1,1,Extremely Heavy
+Meghalaya,West Khasi Hills,2024-07-01,214.2,45.7,2024,7,July,Southwest Monsoon,168.5,1,1,1,1,Extremely Heavy
+Uttar Pradesh,Shrawasti,2021-05-31,214.2,40.8,2021,5,May,Pre-Monsoon,173.39999999999998,1,1,1,1,Extremely Heavy
+Meghalaya,West Jaintia Hills,2022-06-12,213.5,30.3,2022,6,June,Southwest Monsoon,183.2,1,1,1,1,Extremely Heavy
+Maharashtra,Thane,2021-07-20,213.4,21.9,2021,7,July,Southwest Monsoon,191.5,1,1,1,1,Extremely Heavy
+Meghalaya,South West Khasi Hills,2023-07-12,213.3,22.0,2023,7,July,Southwest Monsoon,191.3,1,1,1,1,Extremely Heavy
+Arunachal Pradesh,East Siang,2023-07-29,213.2,24.1,2023,7,July,Southwest Monsoon,189.1,1,1,1,1,Extremely Heavy
+Maharashtra,Palghar,2022-07-14,213.0,27.0,2022,7,July,Southwest Monsoon,186.0,1,1,1,1,Extremely Heavy
+Meghalaya,South West Khasi Hills,2024-06-30,213.0,10.4,2024,6,June,Southwest Monsoon,202.6,1,1,1,1,Extremely Heavy
+Assam,Barpeta,2022-06-16,212.7,16.6,2022,6,June,Southwest Monsoon,196.1,1,1,1,1,Extremely Heavy
+Assam,Barpeta,2022-06-15,212.6,22.6,2022,6,June,Southwest Monsoon,190.0,1,1,1,1,Extremely Heavy
+Odisha,Boudh,2021-09-14,212.1,7.5,2021,9,September,Southwest Monsoon,204.6,1,1,1,1,Extremely Heavy
+Nagaland,Mokokchung,2021-05-31,211.9,225.5,2021,5,May,Pre-Monsoon,-13.599999999999994,1,1,1,1,Extremely Heavy
+Odisha,Kendrapara,2021-05-26,211.5,8.1,2021,5,May,Pre-Monsoon,203.4,1,1,1,1,Extremely Heavy
+Arunachal Pradesh,East Siang,2022-06-28,211.3,42.2,2022,6,June,Southwest Monsoon,169.10000000000002,1,1,1,1,Extremely Heavy
+Uttar Pradesh,Bareilly,2021-10-19,211.1,0.9,2021,10,October,Post-Monsoon,210.2,1,1,1,1,Extremely Heavy
+Telangana,Warangal,2021-07-23,210.6,21.7,2021,7,July,Southwest Monsoon,188.9,1,1,1,1,Extremely Heavy
+Meghalaya,South West Khasi Hills,2025-06-05,210.0,8.3,2025,6,June,Southwest Monsoon,201.7,1,1,1,1,Extremely Heavy
+Jharkhand,Saraikela Kharsawan,2025-06-19,210.0,9.0,2025,6,June,Southwest Monsoon,201.0,1,1,1,1,Extremely Heavy
+Madhya Pradesh,Guna,2022-08-22,210.0,15.6,2022,8,August,Southwest Monsoon,194.4,1,1,1,1,Extremely Heavy
+Bihar,Kishanganj,2024-09-27,209.7,15.1,2024,9,September,Southwest Monsoon,194.6,1,1,1,1,Extremely Heavy
+Andhra Pradesh,Guntur,2024-09-01,209.6,2.9,2024,9,September,Southwest Monsoon,206.7,1,1,1,1,Extremely Heavy
+Tamil Nadu,Chennai,2023-12-04,209.6,10.8,2023,12,December,Post-Monsoon,198.8,1,1,1,1,Extremely Heavy
+Meghalaya,West Jaintia Hills,2022-06-16,209.6,69.8,2022,6,June,Southwest Monsoon,139.8,1,1,1,1,Extremely Heavy
+Tripura,West Tripura,2021-05-31,209.1,382.3,2021,5,May,Pre-Monsoon,-173.20000000000002,1,1,1,1,Extremely Heavy
+The Dadra and Nagar Haveli and Daman and Diu,Daman,2021-07-18,208.4,30.1,2021,7,July,Southwest Monsoon,178.3,1,1,1,1,Extremely Heavy
+Telangana,Mulugu,2023-07-27,208.3,10.7,2023,7,July,Southwest Monsoon,197.6,1,1,1,1,Extremely Heavy
+Maharashtra,Mumbai,2021-05-18,207.6,1.3,2021,5,May,Pre-Monsoon,206.3,1,1,1,1,Extremely Heavy
+Gujarat,Dang,2026-07-23,207.3,20.0,2026,7,July,Southwest Monsoon,187.3,1,1,1,1,Extremely Heavy
+Arunachal Pradesh,East Siang,2022-10-10,207.2,9.7,2022,10,October,Post-Monsoon,197.5,1,1,1,1,Extremely Heavy
+Maharashtra,Thane,2021-06-18,207.0,17.2,2021,6,June,Southwest Monsoon,189.8,1,1,1,1,Extremely Heavy
+West Bengal,Paschim Medinipur,2021-09-15,206.9,4.9,2021,9,September,Southwest Monsoon,202.0,1,1,1,1,Extremely Heavy
+Tamil Nadu,Tenkasi,2023-12-18,206.8,3.9,2023,12,December,Post-Monsoon,202.9,1,1,1,1,Extremely Heavy
+Karnataka,Udupi,2023-07-06,206.6,38.3,2023,7,July,Southwest Monsoon,168.3,1,1,1,1,Extremely Heavy
+Maharashtra,Palghar,2021-05-18,206.5,0.5,2021,5,May,Pre-Monsoon,206.0,1,1,1,1,Extremely Heavy
+Gujarat,Morbi,2024-08-27,206.0,2.2,2024,8,August,Southwest Monsoon,203.8,1,1,1,1,Extremely Heavy
+Gujarat,Valsad,2022-07-12,206.0,30.1,2022,7,July,Southwest Monsoon,175.9,1,1,1,1,Extremely Heavy
+Uttar Pradesh,Deoria,2021-05-31,205.8,29.0,2021,5,May,Pre-Monsoon,176.8,1,1,1,1,Extremely Heavy
+Maharashtra,Mumbai,2022-07-01,205.4,21.5,2022,7,July,Southwest Monsoon,183.9,1,1,1,1,Extremely Heavy
+Madhya Pradesh,Harda,2023-09-16,205.2,5.4,2023,9,September,Southwest Monsoon,199.8,1,1,1,1,Extremely Heavy
+Uttarakhand,Pithoragarh,2021-05-31,205.2,105.9,2021,5,May,Pre-Monsoon,99.29999999999998,1,1,1,1,Extremely Heavy
+Punjab,Rupnagar,2023-07-09,205.1,6.3,2023,7,July,Southwest Monsoon,198.8,1,1,1,1,Extremely Heavy
+Tripura,North Tripura,2021-05-31,204.7,436.1,2021,5,May,Pre-Monsoon,-231.40000000000003,1,1,1,1,Extremely Heavy

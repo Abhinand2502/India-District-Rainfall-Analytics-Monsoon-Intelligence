@@ -1,0 +1,52 @@
+# Day 1 Findings
+
+## Dataset scale
+The dataset contains 1,308,174 rows and 25 columns.
+
+## Geographic coverage
+The source contains 36 state/UT-level locations and 730 raw district values.
+
+## Duplicate issue
+26,843 exact duplicate rows were identified.
+
+## Missing-value issue
+Weekly and cumulative fields contain substantial missingness. Daily rainfall fields are more suitable for the core analytical model.
+
+## Date issue
+The dataset spans 1 January 2021 to 12 September 2026, but date coverage is incomplete for several years.
+
+## Geographic issue
+"Unknown Districts Of India" appears as an aggregate/unknown district record and should be excluded from district-level geographic analysis.
+
+## Grain issue
+Multiple observations can exist for the same State-District-Date combination. The final analytical layer therefore needs an explicit district-date grain.
+
+## Analytical implication
+Annual rainfall comparisons must account for unequal date coverage, especially the partial 2026 period.
+
+
+
+day 2
+✅ Day 2 — What you actually need to complete
+
+Step	Task
+1	Load dataset
+2	Remove duplicates
+3	Clean State & District
+4	Convert Date
+5	Remove unknown district
+6	Convert rainfall to numeric
+7	Create State-District-Date dataset
+8	Create Year, Month, Season
+9	Create Anomaly & Rainfall Flags
+10	Validate and save clean CSV
+
+day 3
+Monthly rainfall analysis
+State-level analysis
+Year-month heatmap
+Rainfall intensity analysis
+Extreme rainfall analysis
+
+day 4 sql
+

@@ -1,0 +1,26 @@
+,Missing Count,Missing Percentage
+Country,0,0.0
+State,0,0.0
+District,0,0.0
+Year,0,0.0
+Calendar Day,0,0.0
+Obj_Id,787174,60.173493740129366
+Daily Category,0,0.0
+Weekly Date,793149,60.630237262015605
+Weekly Category,787175,60.17357018255981
+Cumulative Date,788464,60.272104475398535
+Cumulative Category,787174,60.173493740129366
+Monthly Date,0,0.0
+Monthly Category,0,0.0
+"Daily Actual (UOM:mm(Millimeter)), Scaling Factor:1",21734,1.6613997832092675
+"Daily Normal (UOM:mm(Millimeter)), Scaling Factor:1",8830,0.6749866607958881
+"Percentage Of Daily Departure (UOM:%(Percentage)), Scaling Factor:1",32652,2.495998238766403
+"Weekly Actual (UOM:mm(Millimeter)), Scaling Factor:1",792632,60.5907165254775
+"Weekly Normal (UOM:mm(Millimeter)), Scaling Factor:1",789500,60.35129883333563
+"Percentage Of Weekly Departure (UOM:%(Percentage)), Scaling Factor:1",799594,61.122908726209204
+"Cumulative Actual (UOM:mm(Millimeter)), Scaling Factor:1",791620,60.513356785871
+"Cumulative Normal (UOM:mm(Millimeter)), Scaling Factor:1",789500,60.35129883333563
+"Percentage Of Cumulative Departure (UOM:%(Percentage)), Scaling Factor:1",797174,60.937918044541476
+"Monthly Acutual (UOM:mm(Millimeter)), Scaling Factor:1",13204,1.0093458515457425
+"Monthly Normal (UOM:mm(Millimeter)), Scaling Factor:1",8857,0.6770506064178007
+"Percentage Of Monthly Departure (UOM:%(Percentage)), Scaling Factor:1",21237,1.6234078952799855
